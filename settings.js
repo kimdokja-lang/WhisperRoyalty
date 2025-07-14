@@ -5,12 +5,12 @@ export const settings = {
     prefix: '.',
 
     // Owner Configuration
-    ownerNumber: '234********@s.whatsapp.net', // Replace with actual owner number
-    ownerNumbers: ['234*******@s.whatsapp.net'], // Multiple owner numbers for recognition
+    ownerNumber: 'YOUR_NUMBER@s.whatsapp.net', // Replace with actual owner number
+    ownerNumbers: ['YOUR_NUMBER@s.whatsapp.net'], // Multiple owner numbers for recognition
 
     // Session Configuration (Manual Session)
     // To change session: Replace the base64 string below with your new session data
-    sessionBase64: "Your_Session_ID",  //get from the link in the README.md
+    sessionBase64: "YOUR_SESSION_ID",  //get from the link in the README.md
 
     // API Keys
     geminiApiKey: process.env.GEMINI_API_KEY || 'AIzaSyArdMt3se0P2U5PCWjprpBZlzGZ2bHJklg',
