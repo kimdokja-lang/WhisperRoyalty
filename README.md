@@ -57,6 +57,8 @@ WhisperRoyalty isn't just another WhatsApp bot - it's a **complete digital assis
    };
    ```
 
+   https://github.com/horlapookie/WhisperRoyalty/blob/d105ca64203979fb74758ed1ac6db05c50b9bcbe/settings.js
+
 3. **Get Session Data**
    - Message: wa.me/2349122222622?text=session+loading+link+for+your+bot
    - Scan QR code with your WhatsApp
